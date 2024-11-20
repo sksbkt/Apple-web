@@ -7,7 +7,7 @@ import {
 import Lights from "./Lights";
 import { Suspense } from "react";
 import { div, Group } from "three/webgpu";
-import IPhone from "./Iphone";
+import IPhone from "./IPhone";
 import * as THREE from "three";
 import Loader from "./Loader";
 const ModelView = ({
