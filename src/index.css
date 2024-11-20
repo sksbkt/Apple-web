@@ -99,7 +99,7 @@ canvas {
   }
 
   .hiw-video {
-    @apply absolute w-[95%] h-[90%] rounded-[56px] overflow-hidden;
+    @apply absolute w-[95%] h-[90%] rounded-[10px] overflow-hidden;
   }
 
   .hiw-text-container {
@@ -110,7 +110,7 @@ canvas {
     @apply text-gray text-xl font-normal md:font-semibold;
   }
 
-  .hiw-bigtext {
+  .hiw-bigText {
     @apply text-white text-3xl md:text-5xl font-normal md:font-semibold my-2;
   }
 
