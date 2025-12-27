@@ -3,7 +3,7 @@
 
 A responsive and pixel-perfect clone of the Apple website homepage, built with modern web technologies to showcase front-end development skills.
 
-**Live Demo:** **[https://quanticmachines.netlify.app/](https://quanticmachines.netlify.app/)**
+**[Live Demo](https://quantic-phone.netlify.app/)**
 
 ![Apple Clone Preview](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGJ6dTJrMGJtN3l0d204bWs4bG94ZWV1dHJkcHczNWI1dTNrMTR2YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lOqg91p2kIW9gdowet/giphy.gif)
 
